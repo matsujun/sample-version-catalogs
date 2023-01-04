@@ -33,7 +33,7 @@ dependencyResolutionManagement {
             // Testing
             alias('junit').to('junit:junit:4.13.2')
             alias('androidx-test-ext-junit').to('androidx.test.ext:junit:1.1.2')
-            alias('androidx-test-espresso-core').to('androidx.test.espresso:espresso-core:3.3.0')
+            alias('androidx-test-espresso-core').to('androidx.test.espresso:espresso-core:3.5.1')
         }
     }
 }
