@@ -7,7 +7,7 @@ dependencyResolutionManagement {
     versionCatalogs {
         libs {
             // Android Gradle Plugin
-            alias('android-gradlePlugin').to('com.android.tools.build:gradle:4.2.1')
+            alias('android-gradlePlugin').to('com.android.tools.build:gradle:8.10.0')
 
             // Kotlin
             version('kotlin', '1.5.0')
